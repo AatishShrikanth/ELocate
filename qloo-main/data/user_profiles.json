@@ -1,0 +1,36 @@
+{
+  "905edd9aa08a": {
+    "user_id": "905edd9aa08a",
+    "name": "Aatish Shrikanth",
+    "email": "aatishshrikanth09@gmail.com",
+    "age_range": "18-25",
+    "location_preference": "Current Location",
+    "budget_preference": "$$",
+    "dining_style": "Fine Dining",
+    "interests": [
+      "Fine Dining",
+      "Coffee Shops"
+    ],
+    "liked_venues": [
+      "Starbucks",
+      "Suju's Coffee",
+      "Pete's Coffee"
+    ],
+    "dietary_preferences": [
+      "Vegetarian"
+    ],
+    "preferences": {
+      "budget": "$$",
+      "interests": [
+        "Fine Dining",
+        "Coffee Shops"
+      ],
+      "liked_venues": [
+        "Starbucks",
+        "Suju's Coffee",
+        "Pete's Coffee"
+      ]
+    },
+    "last_updated": "2025-07-20T17:28:50.941154"
+  }
+}
