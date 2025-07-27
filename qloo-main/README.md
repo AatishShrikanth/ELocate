@@ -327,5 +327,3 @@ For issues or questions:
 - **Improved Error Handling**: Better feedback for API issues
 - **Setup Automation**: Easy AWS configuration with `setup_aws.py`
 - **Performance Optimizations**: Faster loading and response times
-
-Enjoy discovering new entertainment venues with personalized AI-powered recommendations and your intelligent assistant! 🎯✨🤖
