@@ -44,7 +44,7 @@ A Streamlit-based web application that provides personalized entertainment recom
 
 1. **Clone or download the project**
    ```bash
-   cd entertainment-recommender
+   cd qloo-main
    ```
 
 2. **Install dependencies**
